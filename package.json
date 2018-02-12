@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "./node_modules/.bin/browser-sync start --server --watch"
+    "start": "./node_modules/.bin/browser-sync start --server 'public' --watch"
   },
   "author": "Jace Benson",
   "license": "ISC",
