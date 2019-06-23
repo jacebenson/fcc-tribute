@@ -39,7 +39,7 @@ npm start
 ```
 
 ## Development
-
+//"start": "/node_modules/light-server/bin/light-server -s public/ -w 'public/**'"
 ## Deployment
 
 This deploy's to gitlab today with gitlab pages.
